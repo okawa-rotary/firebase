@@ -1,0 +1,5 @@
+AuthUserFile /home/users/o/k/a/okawarc/test/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Please input your ID and PASSWORD"
+AuthType Basic
+require valid-user
